@@ -1,1 +1,1 @@
-# DZ-1.2-API-CI
+[![Build status](https://ci.appveyor.com/api/projects/status/4pwdeohdi85fh5pb?svg=true)](https://ci.appveyor.com/project/Kitsune785/dz-1-2-api-ci)
