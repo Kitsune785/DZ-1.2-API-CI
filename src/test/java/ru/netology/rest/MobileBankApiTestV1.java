@@ -35,6 +35,7 @@ class MobileBankApiTestV1 {
 //                .body("", hasSize(3))
 //                .body("[1].balance", greaterThanOrEqualTo(0))
 //                .body("every { it.balance >= 0 }", is(true))
+                .body("[0].currency", equalTo("RUB"))
         ;
     }
 }
